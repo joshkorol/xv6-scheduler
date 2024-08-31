@@ -1,0 +1,6 @@
+/bootblock/
+/build/
+*.jso
+.DS_Store
+.vscode/settings.json
+*.json
